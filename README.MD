@@ -2,8 +2,8 @@
 
 ### Índice
 
-- [Sites Para Busca de emprego](#📌-sites-para-busca-de-empregos)
-- [Freelance](#🔨-freelance)
+- [Sites Para Busca de emprego](#-sites-para-busca-de-empregos)
+- [Freelance](#-freelance)
 
 ## 📌 Sites para busca de empregos
 
