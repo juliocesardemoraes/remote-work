@@ -2,8 +2,6 @@
 
 <a href="#📌-sites-para-busca-de-empregos">📌 Placas de Emprego</a>
 
-<a href="#✈️-Empresas-Remotas">✈️ Empresas Remotas</a>
-
 <a href="#🔨-Freelance">🔨 Freelance</a>
 
 ## 📌 Sites para busca de empregos
@@ -41,24 +39,6 @@
 | Working Nomads        | Uma site para buscar emprego remoto.                        | 🌟        |
 | Supporting Roles      | site para buscar empregos de suporte remoto.                | 📱        |
 | Remote Zoo            | Uma site para buscar emprego remoto.                        | 🌟        |
-
-## ✈️ Empresas Remotas
-
-### Empresas que ocasionalmente anunciam vagas remotas.
-
-| Site          | Detalhes                           | Avaliação |
-| ------------- | ---------------------------------- | --------- |
-| Zapier        | Gerencie fluxos de trabalho.       | 🌟        |
-| Sketch        | Uma ferramenta de design incrível. | 🌟        |
-| 10UP          | Agência                            | 💻        |
-| Articulate    | Ferramenta de criação de cursos    | 🌟        |
-| Automattic    | WordPress    | 🌟        |
-| Buffer        | Um ótimo cliente Twitter.          | 🌟        |
-| Scraping Hub  | Uma ferramenta de scraping.        | 🌟        |
-| Invision App  | Uma ferramenta de design.          | 🌟        |
-| Git Lab       | Uma ferramenta de repositório Git. | 🌟        |
-| X Team        | Agência                            | 💻        |
-| Engineer Babu | Agência.                           | 💻        |
 
 ## 🔨 Freelance
 
