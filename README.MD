@@ -34,16 +34,15 @@
 
 ### Prefere trabalhar por conta própria? Aqui está uma lista de sites de freelancers.
 
-| Site                                                                       | Detalhes                                                             | Avaliação |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
-| <a href="https://www.fiverr.com/" target="\_blank>Fiverr</a>               | Gigs freelancers em todos os setores.                                | 🌟        |
-| <a href="https://freelancer.com.br/" target="\_blank>Freelancer</a>        | Trabalhos freelancers em todos os setores.                           | 🌟        |
-| <a href="https://www.peopleperhour.com/" target="\_blank>PeoplePerHour</a> | Gigs freelancers em todos os setores.                                | 🌟        |
-| <a href="https://www.toptal.com/" target="\_blank>Toptal</a>               | Desenvolvedores, designers e especialistas em finanças freelancers.  | 🌟        |
-| <a href="https://www.upwork.com/" target="\_blank>Upwork</a>               | Trabalhos freelancers em todos os setores.                           | 🌟        |
-| <a href="https://www.codementor.io/" target="\_blank>CodementorX</a>       | Comunidade de desenvolvedores freelancers.                           | 💻        |
-| <a href="https://www.codeable.io/" target="\_blank>Codeable</a>            | Desenvolvedores WordPress freelancers.                               | 💻        |
-| <a href="" target="\_blank>GunIO</a>                                       | Desenvolvedores freelancers.                                         | 💻        |
-| <a href="" target="\_blank>Truelancer</a>                                  | Trabalhos freelancers em todos os setores.                           | 🌟        |
-| <a href="" target="\_blank>Guru</a>                                        | Trabalhos freelancers em todos os setores.                           | 🌟        |
-| [Workana](https://www.workana.com/)                                        | Trabalhos freelancers em todos os setores. Apenas na América Latina. | 🌟        |
+| Site                                                                        | Detalhes                                                             | Avaliação |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
+| <a href="https://www.fiverr.com/" target="\_blank">Fiverr</a>               | Gigs freelancers em todos os setores.                                | 🌟        |
+| <a href="https://freelancer.com.br/" target="\_blank">Freelancer</a>        | Trabalhos freelancers em todos os setores.                           | 🌟        |
+| <a href="https://www.peopleperhour.com/" target="\_blank">PeoplePerHour</a> | Gigs freelancers em todos os setores.                                | 🌟        |
+| <a href="https://www.toptal.com/" target="\_blank">Toptal</a>               | Desenvolvedores, designers e especialistas em finanças freelancers.  | 🌟        |
+| <a href="https://www.upwork.com/" target="\_blank">Upwork</a>               | Trabalhos freelancers em todos os setores.                           | 🌟        |
+| <a href="https://www.codementor.io/" target="\_blank">CodementorX</a>       | Comunidade de desenvolvedores freelancers.                           | 💻        |
+| <a href="https://www.codeable.io/" target="\_blank">Codeable</a>            | Desenvolvedores WordPress freelancers.                               | 💻        |
+| <a href="https://gun.io/" target="\_blank">GunIO</a>                        | Desenvolvedores freelancers.                                         | 💻        |
+| <a href="https://www.truelancer.com/" target="\_blank">Truelancer</a>       | Trabalhos freelancers em todos os setores.                           | 🌟        |
+| [Workana](https://www.workana.com/)                                         | Trabalhos freelancers em todos os setores. Apenas na América Latina. | 🌟        |
