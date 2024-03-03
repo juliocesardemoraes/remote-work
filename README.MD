@@ -52,7 +52,7 @@
 | Sketch        | Uma ferramenta de design incrível. | 🌟        |
 | 10UP          | Agência                            | 💻        |
 | Articulate    | Ferramenta de criação de cursos    | 🌟        |
-| Automattic    | Os caras e garotas do WordPress    | 🌟        |
+| Automattic    | WordPress    | 🌟        |
 | Buffer        | Um ótimo cliente Twitter.          | 🌟        |
 | Scraping Hub  | Uma ferramenta de scraping.        | 🌟        |
 | Invision App  | Uma ferramenta de design.          | 🌟        |
