@@ -37,7 +37,8 @@
 | Site                                                                        | Detalhes                                                             | Avaliação |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
 | <a href="https://www.fiverr.com/" target="\_blank">Fiverr</a>               | Gigs freelancers em todos os setores.                                | 🌟        |
-| <a href="https://freelancer.com.br/" target="\_blank">Freelancer</a>        | Trabalhos freelancers em todos os setores.                           | 🌟        |
+| <a href="https://freelancer.com/" target="\_blank">Freelancer</a>        | Trabalhos freelancers em todos os setores.                           | 🌟        |
+| <a href="https://freelancer.com.br/" target="\_blank">Freelancer BR</a>     | Trabalhos freelancers em todos os setores.                           | 🌟        |
 | <a href="https://www.peopleperhour.com/" target="\_blank">PeoplePerHour</a> | Gigs freelancers em todos os setores.                                | 🌟        |
 | <a href="https://www.toptal.com/" target="\_blank">Toptal</a>               | Desenvolvedores, designers e especialistas em finanças freelancers.  | 🌟        |
 | <a href="https://www.upwork.com/" target="\_blank">Upwork</a>               | Trabalhos freelancers em todos os setores.                           | 🌟        |
