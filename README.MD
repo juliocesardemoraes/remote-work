@@ -1,25 +1,26 @@
 ## Trabalho Remoto
 
-<a href="#📌-sites-para-busca-de-empregos">📌 Placas de Emprego</a>
+### Índice
 
-<a href="#🔨-Freelance">🔨 Freelance</a>
+- [Sites Para Busca de emprego](#📌-sites-para-busca-de-empregos)
+- [Freelance](#🔨-freelance)
 
 ## 📌 Sites para busca de empregos
 
 ### Sites para busca de empregos que divulgam vagas em uma variedade de setores.
 
-| Site                  | Detalhes                                            | Avaliação |
-| --------------------- | --------------------------------------------------- | --------- |
-| WeWorkRemotely        | Um site popular para buscar emprego remoto.                | 🌟        |
-| Dribbble              | Um site para buscar emprego remoto para designers.         | 🎨        |
-| AngelList             | Um popular site para buscar emprego remoto.                | 🌟        |
+| Site                  | Detalhes                                                    | Avaliação |
+| --------------------- | ----------------------------------------------------------- | --------- |
+| WeWorkRemotely        | Um site popular para buscar emprego remoto.                 | 🌟        |
+| Dribbble              | Um site para buscar emprego remoto para designers.          | 🎨        |
+| AngelList             | Um popular site para buscar emprego remoto.                 | 🌟        |
 | Authentic Jobs        | Uma popular site para buscar emprego remoto.                | 🌟        |
 | RemoteOK              | Uma popular site para buscar emprego remoto.                | 🌟        |
 | Jobspresso            | Uma site para buscar emprego remoto.                        | 🌟        |
 | Remotive              | Uma site para buscar emprego remoto.                        | 🌟        |
-| Indeed.com            | Requer alguma pesquisa. Vagas de tecnologia remota. | 💻        |
-| Hacker News           | Vagas de tecnologia remota.                         | 💻        |
-| Stack Overflow Jobs   | Vagas de tecnologia remota.                         | 💻        |
+| Indeed.com            | Requer alguma pesquisa. Vagas de tecnologia remota.         | 💻        |
+| Hacker News           | Vagas de tecnologia remota.                                 | 💻        |
+| Stack Overflow Jobs   | Vagas de tecnologia remota.                                 | 💻        |
 | Europe Remotely       | Uma site para buscar emprego remoto.                        | 🌟        |
 | Flexjobs              | Uma site para buscar emprego remoto.                        | 🌟        |
 | Go Remote Jobs        | Uma site para buscar emprego remoto.                        | 🌟        |
